@@ -39,12 +39,12 @@ Member</panel_attributes>
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>126</x>
+      <x>153</x>
       <y>81</y>
-      <w>126</w>
+      <w>72</w>
       <h>99</h>
     </coordinates>
-    <panel_attributes>Committee Member</panel_attributes>
+    <panel_attributes>Member</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
